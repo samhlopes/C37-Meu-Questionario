@@ -51,4 +51,8 @@ class Question {
       contestant.updateCount(contestantCount);
     });
   }
+
+  // esconderQuestion(){
+  //   this.title.hide();
+  // }
 }
