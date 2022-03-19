@@ -23,15 +23,15 @@ class Question {
     this.title.html("Jogo MeuQuestionário");
     this.title.position(350, 0);
 
-    this.question.html("Pergunta: No céu, eu pulo e vôo. Amo escalar, flutuar e mostrar minhas penas. " );
+    this.question.html("Como se diz 'Eu caminhei durante cinco horas' em frances? ");
     this.question.position(150, 80);
-    this.option1.html("1: Avião " );
+    this.option1.html("1: J'ai couru pendant cinq heures " );
     this.option1.position(150, 100);
-    this.option2.html("2: Cometa" );
+    this.option2.html("2: J'ai marché pendant cinq heures" );
     this.option2.position(150, 120);
-    this.option3.html("3: Água " );
+    this.option3.html("3: J'ai mangé cinq heures " );
     this.option3.position(150, 140);
-    this.option4.html("4: Estrela" );
+    this.option4.html("4: J'ai aimé les cinq heures" );
     this.option4.position(150, 160);
 
     this.input1.position(150, 230);
